@@ -11,7 +11,7 @@ I believe that sharing ideas is extremely important. Ideas can be very powerful 
 Throughout my blog posts I will be providing my thoughts on a wide range of topics, and sharing projects I work on and commenting on what I learnt as I worked on them.
 
 ## Who am I?
-I am a 15 year-old developer from Latin America. Online I am known as DevX. I am interested in **game development**, **web development** and technology overall. I began learning how to program at the age of 9, having worked on a series of projects, most of which I've abandoned, though, they've served to help me gain a deeper understanding on how programming works.
+I am a 15-year-old developer from Latin America. Online I am known as DevX. I am interested in **game development**, **web development** and technology overall. I began learning how to program at the age of 9, having worked on a series of projects, most of which I've abandoned, though, they've served to help me gain a deeper understanding on how programming works.
 
 ## Why did I start a blog?
 I had already been thinking for a while about starting a blog, but the main reason I ended up carrying it out was because of a video posted by a tech YouTuber I follow: *NetworkChuck*, in which he explains how and why to start a blog in 2024.
