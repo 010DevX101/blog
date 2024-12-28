@@ -1,7 +1,7 @@
 # Site settings
 title:          DevX's Blog
 description:    ""
-url:            https://github.com/010DevX101/
+url:            https://github.com/010DevX101/blog
 
 # Author
 author:
@@ -17,12 +17,6 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
-# Gems
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
-
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
@@ -34,7 +28,7 @@ related_posts_section:
 
 # Links to social media
 social:
-  #email: 
-  github: https://github.com/010DevX101
-  #twitter: 
-  #linkedin: 
+  #email: inelaah@gmail.com
+  github: https://github.com/010DevX101/
+  #twitter: https://twitter.com
+  #linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
