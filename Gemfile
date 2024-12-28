@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-gem "minima", "~> 2.5"
-
 gem "github-pages", group: :jekyll_plugins
 
-gem "jekyll-feed", "~> 0.12"
-gem "jekyll-paginate"
+group :plugins do
+  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate"
+end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
