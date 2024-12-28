@@ -17,6 +17,10 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
